@@ -481,7 +481,7 @@ footer span{
 
 /*Media Query Mobile*/
 
-@media only screen and (max-width: 560px) {
+@media only screen and (max-width: 480px)   {
   body {
     font-size: 0.88rem;
   }
