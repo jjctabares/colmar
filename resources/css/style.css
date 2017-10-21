@@ -491,7 +491,7 @@ footer span{
     display:none;
   }
 /*Mobile Header*/
-  .mobile{
+    .mobile{
     display:block;
     
   }
@@ -503,7 +503,7 @@ footer span{
     display:flex;
     flex-direction: row;
     height: 3.5rem;
-
+  }
 /*Mobile Banner*/
 
   #content1{
