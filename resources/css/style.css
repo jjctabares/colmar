@@ -493,19 +493,16 @@ footer span{
 /*Mobile Header*/
   .mobile{
     display:block;
-    padding:0rem 1.33rem;
+    
   }
   header span{
-    padding:0rem 1.33rem
+    padding:0rem 1.77rem
   }
 
   header{
     display:flex;
     flex-direction: row;
     height: 3.5rem;
-    padding:0rem 1.33rem;
-
-  }
 
 /*Mobile Banner*/
 
